@@ -1,4 +1,3 @@
-# Print flow request in raw format. This can be used to record request fixtures
 import datetime
 import os
 import re
